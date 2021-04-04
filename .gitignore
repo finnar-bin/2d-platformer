@@ -1,3 +1,5 @@
+# Others
+.DS_Store
 
 # Godot-specific ignores
 .import/
